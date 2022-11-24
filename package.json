@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "react-currency-format": "^1.1.0",
+    "stripe": "^9.2.0"
+  }
+}
